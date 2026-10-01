@@ -7,8 +7,8 @@
 #include <DHT.h>
 
 // Wi-Fi
-#define WIFI_SSID "Squadruan"
-#define WIFI_PASSWORD "snowkey1226"
+#define WIFI_SSID "your_Wifi_name"
+#define WIFI_PASSWORD "Wifi_Password"
 
 // Firebase
 #define DATABASE_URL "https://smarthomesecurity-11569-default-rtdb.firebaseio.com/"
